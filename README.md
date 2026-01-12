@@ -110,7 +110,7 @@ The trained model weights are **not included in this repository** due to GitHub 
 ## Download Instructions
 
 1. Download the model weights from Google Drive:  
-   👉 **[Download retinal_disease_classifier.pth](https://drive.google.com/file/d/1kRCCjWNysVGoCiwznNDbcV-ey8TAJWY1/view?usp=sharing)**
+   👉 **[Download brain tumor_classifier.pth](https://drive.google.com/file/d/1kRCCjWNysVGoCiwznNDbcV-ey8TAJWY1/view?usp=sharing)**
 
 2. After downloading, place the file in the following directory:
 ```text
